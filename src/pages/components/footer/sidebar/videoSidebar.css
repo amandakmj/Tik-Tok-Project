@@ -1,0 +1,20 @@
+.videoSidebar{
+    position: absolute;
+    top: 50%;
+    right: 5%;
+    color: white;
+}
+
+.videoSidebar__options{
+    padding: calc(var(--container-width) * 0.025);
+  text-align: center;
+}
+.videoSidebar__options svg {
+    font-size: calc(var(--container-width) * 0.085);
+  }
+  
+  @media only screen and (max-width: 440px) {
+    .videoSidebar {
+      top: 46%;
+    }
+  }
