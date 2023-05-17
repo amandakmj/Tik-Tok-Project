@@ -1,2 +1,2 @@
 # Tik-Tok-Project
-Esse projeto foi construído com React utilizando css e java script, integralizando com o firebase 
+Um aplicativo móvel de vídeos curtos. Desenvolvido em CSS e Java Script, construído com React e integralizando com o firebase.
